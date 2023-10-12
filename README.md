@@ -16,11 +16,11 @@ A Python script to download PDFs from a list of DOIs using BeautifulSoup and req
 
 1. Clone the repositiry
    ```bash
-   git clone 
+   git clone git@github.com:Alvalens/Sci-Hub-PDF-downloader.git
    ```
 2. Go to the directory
    ```bash
-   cd
+   cd Sci-Hub-PDF-downloader
    ```
 3. You can install the required Python packages using `pip`:
    ```bash
